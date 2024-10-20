@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://github.com/nileshp-07?tab=repositories)
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/RitikaFulwani?tab=repositories)
 
 - 📫 How to reach me **ritikafulwani3@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ritika-fulwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilesh-patidar-69781a251/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritika-fulwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilesh-patidar-69781a251/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Ritikafulwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nileshp07/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ritikafulwani3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nileshp07" height="30" width="40" /></a>
 </p>
@@ -35,11 +35,9 @@
 <br/>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshp-07" alt="nileshp-07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritikaf-16" alt="nileshp-07" /></a> </p>
 
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshp-07&show_icons=true&locale=en&layout=compact" alt="nileshp-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshp-07&show_icons=true&locale=en" alt="Ritikaf-16" /></p>
